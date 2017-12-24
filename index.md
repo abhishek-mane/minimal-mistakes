@@ -4,16 +4,59 @@ author_profile: true
 permalink: /
 ---
 
-Minimal Mistakes has been developed as a [Jekyll theme gem](http://jekyllrb.com/docs/themes/) for easier use. It is also 100% compatible with GitHub Pages --- just with slightly different installation process.
+<!-- 
+  <==========================> START  : Experience
+-->
+## Experience                                                   :globe_with_meridians:
 
-## Installing the Theme
+* **GSLab, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**   `Aug 2016 - Present`                        <br />
+  <small>
+    Currently working as software developer.
+    Have been part of different projects,                       <br/>
+    :point_right: IBM IoT and Analytics                         <br/>
+    :point_right: IBM Cloud Orchestrator L3 Support             <br/>
+  </small>
 
-If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
+<!-- 
+  <==========================> END    : Experience
+-->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+<!-- 
+  <==========================> START  : Education
+-->
+## Education                                                    :green_book:
 
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | absolute_url }}) for a list of theme files and what they do.
+* **Graduation**                                                `2012 - 2016`   <br/>
+  <small>
+    Pursued bachelor's degree in 
+    **Computer Science** :computer: from                        <br/>
+    **D Y Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.**
+  </small>
 
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
-{: .notice--info}
+* **Higher Education**                                          `2010 - 2012`   <br/>
+  <small>
+    Pursued higher education from                               <br />
+    **Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.**
+  </small>
+
+* **Primary Education**                                         `2000 - 2010`   <br/>
+  <small>
+    Pursued primary education from                              <br />
+    **Prerana Prathmik & Madhyamik Vidyalaya, <i class="fa fa-map-marker" aria-hidden="true"></i> Pune**
+  </small>
+
+<!-- 
+  <==========================> END    : Education
+-->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+<!-- 
+  <==========================> START  : Projects
+-->
+## Projects                                                     :bulb:
+<!-- 
+  <==========================> END    : Projects
+-->
+
 
 ### Ruby Gem Method
 
