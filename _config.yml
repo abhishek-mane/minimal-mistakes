@@ -249,9 +249,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: # true
+      comments: # true
+      share: # true
       related: true
 
 remote_theme: "mmistakes/minimal-mistakes"
