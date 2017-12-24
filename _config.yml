@@ -245,13 +245,13 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: #true
       related: true
 
 remote_theme: "mmistakes/minimal-mistakes"
