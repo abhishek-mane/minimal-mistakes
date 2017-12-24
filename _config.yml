@@ -86,24 +86,24 @@ author:
   name             : "Abhishek Mane"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Software Developer"
-  location         : "Pune"
+  location         : "Pune, Maharashtra, India"
   email            : "abhishekmane@outlook.in"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "https://bitbucket.org/abhishek-mane/"
+  github           : "abhishek-mane"
+  gitlab           : "abhishek-mane"
+  bitbucket        : "abhishek-mane"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/abhishek-mane/"
-  gitlab           : "https://gitlab.com/abhishek-mane"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/abhishek.v.mane/"
+  instagram        : #"abhishek.v.mane"
   lastfm           :
   linkedin         : "abhishek-mane"
-  pinterest        : "https://in.pinterest.com/abhishekvmane/"
+  pinterest        : "abhishekvmane"
   soundcloud       :
   stackoverflow    : "9135932/abhishek-mane"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
