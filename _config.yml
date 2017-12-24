@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Abhishek Mane"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Abhishek Mane"
+description              : "Software Developer"
+url                      : # the base hostname & protocol for your site e.g. "https://abhishek-mane.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment."
+  commitMessage          : # "Initial Commit"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -83,29 +83,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Abhishek Mane"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Software Developer"
+  location         : "Pune"
+  email            : "abhishekmane@outlook.in"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/abhishek-mane/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  gitlab           :
+  github           : "https://github.com/abhishek-mane/"
+  gitlab           : "https://gitlab.com/abhishek-mane"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/abhishek.v.mane/"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
+  linkedin         : "abhishek-mane"
+  pinterest        : "https://in.pinterest.com/abhishekvmane/"
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "9135932/abhishek-mane"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
